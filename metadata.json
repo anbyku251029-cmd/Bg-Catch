@@ -1,0 +1,6 @@
+{
+  "name": "곤충탐험대 (Insect Expedition) MVP v0.1",
+  "description": "7~9세 아동을 위한 인터랙티브 자연 생태 탐험 및 곤충 채집 시뮬레이션 웹 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

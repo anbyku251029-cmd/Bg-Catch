@@ -22,7 +22,7 @@ if (fs.existsSync(assetsSrc)) {
 }
 
 // Copy JSON data files if present
-['insects150.json', 'insects50.json', 'missions.json'].forEach(file => {
+['insects500.json', 'insects150.json', 'insects50.json', 'missions.json'].forEach(file => {
   const src = path.join(rootDir, file);
   const dest = path.join(distDir, file);
   if (fs.existsSync(src)) {
